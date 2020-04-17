@@ -5,5 +5,5 @@ puts phrase
 end
 
 def toadstool
-  puts status
+  puts $status
 end
